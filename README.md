@@ -18,3 +18,5 @@ We can also set a maximum cost of the cache. For example: 50,000,000 bytes
 ```swift 
 cache.totalCostLimit = 50_000_000
 ```
+
+Thanks to @juanpe for the starting point
